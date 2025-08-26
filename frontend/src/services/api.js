@@ -1,5 +1,5 @@
 // API Base URL (using environment variable)
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'https://eagle-events-backend.onrender.com';
+const API_BASE_URL = process.env.REACT_APP_API_URL || 'https://eagleeventsprojectdemo.onrender.com';
 
 console.log('API Base URL:', API_BASE_URL); // Debug log
 
@@ -906,4 +906,5 @@ export default {
   setAuth: setAuthToken,
   getAuth: getAuthToken
 };
+
 
