@@ -17,7 +17,7 @@ export function Services({ onQuoteClick }) {
       title: 'Event Packages',
       description: 'Tailored packages for weddings, funerals, birthdays, and corporate events to suit your specific needs.',
       features: ['Customizable Options', 'All-inclusive Deals', 'Professional Planning', 'Budget Friendly'],
-      image: '/images/home3.webp'
+      image: '/images/s6.webp'
     },
     {
       id: 'slaughtering-services',
@@ -123,3 +123,4 @@ export function Services({ onQuoteClick }) {
     </section>
   );
 }
+
